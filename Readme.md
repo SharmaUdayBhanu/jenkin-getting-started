@@ -1,8 +1,9 @@
 # Jenkins CI/CD Assignment
 
-Simple Node.js application demonstrating a Jenkins CI/CD pipeline.
+Very Simple Node.js application demonstrating a Jenkins CI/CD pipeline.
 
 Stages:
+
 - Checkout
 - Install Dependencies
 - Validation
