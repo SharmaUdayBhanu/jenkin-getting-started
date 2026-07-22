@@ -1,0 +1,16 @@
+{
+  "name": "jenkins-assignment",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo Build Successful",
+    "test": "curl http://localhost:3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
